@@ -1,2 +1,2 @@
 # Python
-Python tasks and exersices
+Python tasks and exercises
